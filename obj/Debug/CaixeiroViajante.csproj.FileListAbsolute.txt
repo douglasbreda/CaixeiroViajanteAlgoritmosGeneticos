@@ -1,0 +1,9 @@
+C:\Users\dougl\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\bin\Debug\CaixeiroViajante.exe.config
+C:\Users\dougl\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\bin\Debug\CaixeiroViajante.exe
+C:\Users\dougl\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\bin\Debug\CaixeiroViajante.pdb
+C:\Users\dougl\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.csprojResolveAssemblyReference.cache
+C:\Users\dougl\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.Form1.resources
+C:\Users\dougl\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.Properties.Resources.resources
+C:\Users\dougl\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.csproj.GenerateResource.Cache
+C:\Users\dougl\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.exe
+C:\Users\dougl\Documents\GitHub\CaixeiroViajante\CaixeiroViajante\obj\Debug\CaixeiroViajante.pdb
